@@ -20,7 +20,7 @@ namespace dell_fans_controller
         private static string ipmitoolPath = currentPath + "\\Dell\\SysMgt\\bmc\\ipmitool.exe";
         private static string configFilePath = currentPath + configFileName;
 
-        private static string defaultIp = "127.0.0.1";
+        private static string defaultIp = "192.168.71.110";
         private static string defaultUser = "root";
         private static string defaultPassword = "calvin";
         private static string defaultConfigSection = "ipmi";
