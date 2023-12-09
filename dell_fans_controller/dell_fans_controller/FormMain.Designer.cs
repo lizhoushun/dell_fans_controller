@@ -346,7 +346,7 @@
             this.btnRefreshNow.Name = "btnRefreshNow";
             this.btnRefreshNow.Size = new System.Drawing.Size(179, 21);
             this.btnRefreshNow.TabIndex = 12;
-            this.btnRefreshNow.Text = "Refresh Now";
+            this.btnRefreshNow.Text = "读取数据";
             this.btnRefreshNow.UseVisualStyleBackColor = true;
             this.btnRefreshNow.Click += new System.EventHandler(this.btnRefreshNow_Click);
             // 
